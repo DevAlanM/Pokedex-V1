@@ -24,20 +24,24 @@ Irei utilizar uma parte desse projeto em projetos futuros (Cenas dos próximos c
 
 ## Link para testar a Pokedex-V1
 
-Link: (https://devalanm.github.io/Pokedex-V1/)
+Link: (https://devalanm.github.io/Pokedex-V1/)<br>
+
+## Contato
+Email para contato: <email>alanmartins789@gmail.com</email>
 
 ## 👋 Feito por
 <table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/alan-martins-2b325614b/">
-        <img src="https://avatars.githubusercontent.com/u/62656084?s=400&u=f1f1f0f37b02a2cf0779f203490cbaac6ba0cba4&v=4" width="100px;" alt="Foto do Alan Martins no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/62656084?s=400&u=f1f1f0f37b02a2cf0779f203490cbaac6ba0cba4&v=4" width="100px;" alt="Foto do Alan Martins no GitHub"/> <br>
         <sub>
           <b>Alan Martins</b>
         </sub>
       </a>
-    </td>
+     </td>
   </tr>
 </table>
+
 
                                                    
